@@ -1,6 +1,6 @@
 <?php
 
-$botToken = "7710011490:AAH4e4QJiCFG2uOAK2mh4NK4dfr_czoaE80";
+$botToken = "7691950524:AAEwx9DGbn-HKRLJjJuqGAdVtRPbaNUTrx8";
 $apiURL = "https://api.telegram.org/bot$botToken/";
 $developerUsername = "join_hyponet";
 
