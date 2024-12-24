@@ -1,10 +1,10 @@
 <?php
 
-$botToken = "7691950524:AAF9wC_FlFuCEXUdnhBu9dteb1gLptCZ4So";
+$botToken = "8151943944:AAE3Rm5okhZBqXPVFtdzwuAB8akVBVnkFZE";
 $apiURL = "https://api.telegram.org/bot$botToken/";
-$developerUsername = "join_hyponet";
+$developerUsername = "seeu_moviesbot";
 
-$adminUserId = '6897739611';
+$adminUserId = '1352497419';
 $userDataFile = 'True12G_offical.json';
 
 function shortenURL($url) {
