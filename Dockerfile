@@ -11,7 +11,7 @@ COPY . .
 RUN apt-get update && apt-get install -y curl
 
 # Expose port 80
-EXPOSE 80
+EXPOSE 8080
 
 # Command to run the bot
-CMD ["php", "-S", "0.0.0.0:80", "bot.php"]
+CMD ["php", "-S", "0.0.0.0:8080", "bot.php"]
